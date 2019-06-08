@@ -5,9 +5,9 @@ An implementation of circular doubly linked list C
 
 ## Demo
 ```shell
-# build program
+# build
 $ make
 
-# Test
+# test
 $ ./listtest
 ```
